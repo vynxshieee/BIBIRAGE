@@ -5,4 +5,4 @@ BIBIRAGE is a simple beverage ordering system I coded to practice using Java Swi
 - don't mind the pay now btn and sugar lvl/qty display :p
   
 - source code in "BIBIRAGE/BIBIRAGE/src" directory
-- run the MainApp with the other classes on the same project file
+- run the MainApp together with the other attached files
