@@ -6,3 +6,4 @@ BIBIRAGE is a simple beverage ordering system I coded to practice using Java Swi
   
 - source code in "BIBIRAGE/BIBIRAGE/src" directory
 - run the MainApp together with the other attached files
+- u might need to change the directory for the icons/images in the code to the downloaded file path for it to appear.
